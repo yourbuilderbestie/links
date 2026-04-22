@@ -38,7 +38,7 @@ function Index() {
           width={1080}
           height={1920}
         />
-        <div className="absolute inset-0 bg-primary/80" />
+        <div className="absolute inset-0 bg-pink-400/50" />
       </div>
 
       {/* Content */}
